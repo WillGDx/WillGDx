@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working... Assistente de T.I
 - 🌱 I’m currently learning... Front-End
-
+- ⚡ Obcjetive... Full-Stack
+- 😄 Pronouns... Will
 <!--
 **WillGDx/WillGDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
