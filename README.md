@@ -1,7 +1,7 @@
 ### Hi, there Seja Bem Vindo👋
 
 
-- 🔭 I’m currently working on ... Assistente de T.I
+- 🔭 I’m currently working ... Assistente de T.I
 - 🌱 I’m currently learning ...Front-End
 
 <!--
